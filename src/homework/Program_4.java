@@ -5,7 +5,8 @@ public class Program_4 {
         int rows = 5;
 
         for (int i = 0; i <= rows; i++) {
-                // i=1
+                // i=0, j = 0
+
             for (int j = 0; j <= i; j++) {
                 System.out.print("* ");
             }
